@@ -180,6 +180,8 @@ const revenue = [
   { month: 'Dec', revenue: 4800 },
 ];
 
+
+//exporting all the objects from this file
 module.exports = {
   users,
   customers,
